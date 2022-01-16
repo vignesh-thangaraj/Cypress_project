@@ -1,0 +1,10 @@
+{
+  "staging": {
+    "dental_reborn_endpoint": "https://staging.directshifts.com/jobs/p/dental-reborn-7000",
+    "base_endpoint": "https://staging.directshifts.com/"
+  },
+  "prod": {
+    "base_endpoint": "https://directshifts.com/"
+  }
+  
+}

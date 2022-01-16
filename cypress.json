@@ -1,0 +1,7 @@
+{
+    "env": {
+        "execution_environment": "staging",
+        "viewport_settings": "macbook-15",
+        "cypress_timeout": 20000
+    }
+}
